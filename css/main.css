@@ -1,0 +1,49 @@
+html {
+  box-sizing: border-box;
+  font-family: "Muli", sans-serif; }
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  margin: 0; }
+
+h2, h3 {
+  font-family: "Muli", sans-serif; }
+
+.color-orange {
+  background: #FF671F; }
+
+.color-green {
+  background: #7fc719; }
+
+.color-gray {
+  background: #51534A; }
+
+.text-white {
+  color: white; }
+
+.text-orange {
+  color: #FF671F; }
+
+#background-home {
+  background-image: url(../assets/img/fotos-stock/gente-feliz/shutterstock_289485428.jpg); }
+
+.uk-navbar-nav > li > a, .uk-subnav > * > :first-child {
+  color: white;
+  font-family: "Muli", sans-serif; }
+
+.uk-subnav {
+  padding-top: 1.5%; }
+
+.button-style {
+  border-radius: 5px;
+  border: 1px solid #7fc719;
+  color: white;
+  background: #7fc719; }
+  .button-style:hover {
+    background: none;
+    border: 1px solid white;
+    color: white; }
+
+/*# sourceMappingURL=main.css.map */
